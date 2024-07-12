@@ -1,1 +1,1 @@
-This repositry is the full project of work-experience-june2024
+This repositry is the full project of the 1.5 month long work-experience-june2024 at saal.ai
